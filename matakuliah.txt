@@ -1,1 +1,14 @@
-Data Mata Kuliah
+DATA MATA KULIAH
+
+Kode : IF101
+Mata Kuliah : Pemrograman
+SKS : 3
+
+Kode : IF102
+Mata Kuliah : Basis Data
+SKS : 3
+
+Fitur:
+1. Tambah mata kuliah.
+2. Edit mata kuliah.
+3. Hapus mata kuliah.
