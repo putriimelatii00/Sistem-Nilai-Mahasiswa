@@ -1,4 +1,10 @@
-Fitur Login
-- Username
-- Password
-- Tombol Login
+FITUR LOGIN
+
+Username : admin
+Password : admin123
+
+Fungsi:
+1. Memasukkan username.
+2. Memasukkan password.
+3. Validasi data login.
+4. Menampilkan halaman utama jika login berhasil.
