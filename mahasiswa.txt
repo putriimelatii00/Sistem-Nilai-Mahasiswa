@@ -1,1 +1,12 @@
-Data Mahasiswa
+DATA MAHASISWA
+
+NIM   : 24110008
+Nama  : Elvra
+Prodi : Teknologi Informasi
+Semester : 4
+
+Fitur:
+1. Tambah data mahasiswa.
+2. Ubah data mahasiswa.
+3. Hapus data mahasiswa.
+4. Cari data mahasiswa.
