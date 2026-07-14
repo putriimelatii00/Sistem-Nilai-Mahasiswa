@@ -1,1 +1,15 @@
-Data Nilai Mahasiswa
+DATA NILAI
+
+Nama Mahasiswa : Elvra
+
+Pemrograman : 90
+Basis Data : 95
+
+Rata-rata : 92.5
+Grade : A
+
+Fitur:
+1. Input nilai.
+2. Hitung rata-rata.
+3. Menampilkan grade.
+4. Menyimpan hasil nilai.
